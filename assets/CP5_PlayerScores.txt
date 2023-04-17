@@ -1,0 +1,10 @@
+Smith
+12 14 7 10
+John
+9 15 19 2
+Peter
+8 10 14 5
+Sunny
+2 14 8 9
+John
+5 11 7 9
