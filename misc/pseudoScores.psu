@@ -1,0 +1,21 @@
+DECLARE scores : ARRAY[0:40] OF INTEGER
+
+DECLARE i : INTEGER 
+i <- 0
+DECLARE line : STRING
+INPUT line
+
+WHILE line <> "" AND i < 40 DO
+  scores [i] <- NUMBER(line)
+  INPUT line 
+  i <- i + 1
+ENDWHILE
+
+// Calc total
+DECLARE total : INTEGER 
+FOR j <- 0 TO i
+  total <- total + scores[j]
+ENDFOR
+
+DISPLAY("Average score is ", total / i)
+
