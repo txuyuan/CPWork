@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <html>
+    <title>Adoption Library</title>
+  </html>
+  <body>
+    <h1>Pets up for adoption!</h1>
+    <h5>Consider giving these lovely babies a chance!</h5>
+
+    <div class="pets">
+      {% for pet in pets %}
+        <div class="pet">
+          <div class="header">
+            <span>{{pet.name}}</span>
+            <span>{{pet.species}}</span>
+          </div>
+          
+          <img src="pet.img" class="image" alt="{{pet.name}}">
+          
+          <span class="detail">Sex: <b>{{pet.sex}}</b></span>
+          <span class="detail">Age: <b>{{pet.age}}</b></span>
+          <span class="detail">Fee: <b>{{pet.fee}}</b></span>
+
+          <p class="writeup">{{pet.writeup}}</p>
+
+          <div class="actions">
+            <a class="contact-btn" href="emailto:{{ pet.email }}">Contact my owner!</a>
+            <a class="edit-btn" href="/edit/{{ pet.pet_id }}">Edit Listing</a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </body>
+</html>

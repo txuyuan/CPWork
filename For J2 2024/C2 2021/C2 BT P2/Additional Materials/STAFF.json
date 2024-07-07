@@ -1,0 +1,57 @@
+[
+	{
+	"Name": "Sam Chong",
+	"Age": 34,
+	"Gender": "M",
+	"Acceptance": "No",
+	"Reason": "Allergy"
+	},
+	{"Name": "Charlie Lee",
+	"Age": 41,
+	"Gender": "M",
+	"Acceptance": "Yes",
+	"VacDates": "19 Mar 2021"
+	},
+	{"Name": "Alan Lim",
+	"Age": 50,
+	"Gender": "M",
+	"Acceptance": "Yes",
+	"VacDates": ["20 Mar 2021", "10 Apr 2021"]
+	},
+	{"Name": "Amanda Cheong",
+	"Age": 27,
+	"Gender": "F",
+	"Acceptance": "Yes",
+	"VacDates": ["14 Mar 2021", "30 Mar 2021"]
+	},
+	{"Name": "Helen Wong",
+	"Age": 56,
+	"Gender": "F",
+	"Acceptance": "Yes",
+	"VacDates": ["17 Mar 2021", "10 Apr 2021"]
+	},
+	{"Name": "Chloe Zong",
+	"Age": 20,
+	"Gender": "F",
+	"Acceptance": "Yes"
+	},
+	{"Name": "Susan Lim",
+	"Age": 32,
+	"Gender": "F",
+	"Acceptance": "No",
+	"Reason": "Pregnancy"
+	},
+	{"Name": "Martin Tan",
+	"Age": 58,
+	"Gender": "M",
+	"Acceptance": "Yes",
+	"VacDates": "10 Mar 2021"
+	},
+	{"Name": "Tony Sim",
+	"Age": 54,
+	"Gender": "M",
+	"Acceptance": "No",
+	"Reason": "Complicated health condition"
+	}
+
+]

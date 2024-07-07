@@ -1,0 +1,13 @@
+[{"Date": "May 20", "Time": "1040", "Tea":"Golden Oolong Tea", "Sugar":100,"Price":6.2, "Upsize":"True", "Toppings":["Bubble", "Konjac"]},
+{"Date": "May 20", "Time": "1430", "Tea":"Jasmine Green Tea", "Sugar":50,"Price":5.5, "Toppings":"Bubble", "Member":"Alice"},
+{"Date": "May 20", "Time": "2030", "Tea":"Assam Black Tea", "Sugar":100,"Price":7.8, "Upsize":"True", "Toppings":["Bubble", "Konja", "Taro Q", "Ai Yu"]},
+{"Date": "May 20", "Time": "2100", "Tea":"Caramel Milk Tea", "Sugar":25,"Price":5.3, "Toppings":"Bubble", "Member":"Jason"},
+{"Date": "May 21", "Time": "0920", "Tea":"Green Milk Tea", "Sugar":75,"Price":4.8, "Upsize":"True", "Member":"Jason"},
+{"Date": "May 21", "Time": "1120", "Tea":"Mango Milk Tea", "Sugar":75,"Price":5.8, "Toppings":"Bubble", "Member":"Alice", "Ice":"Less"},
+{"Date": "May 21", "Time": "1350", "Tea":"Honey Oolong Tea", "Sugar":25,"Price":5.3, "Ice":"Less", "Upsize":"True"},
+{"Date": "May 21", "Time": "1403", "Tea":"Lemon Tea", "Sugar":120,"Price":7.5,  "Upsize":"True", "Toppings":["Ai Yu", "Coffee Jelly"]},
+{"Date": "May 21", "Time": "1510", "Tea":"Honey Green Tea", "Sugar":50,"Price":6.5, "Toppings":["Bubble","Ai Yu"], "Member":"Alice"},
+{"Date": "May 21", "Time": "1820", "Tea":"Yakult Green Tea", "Sugar":25,"Price":4.5, "Ice":"No", "Toppings":["Bubble", "Konjac"]},
+{"Date": "May 22", "Time": "1330", "Tea":"Hazelnut Milk Tea", "Sugar":75,"Price":6.3, "Upsize":"True", "Toppings":["Coffee Jelly", "Taro Q"], "Member":"Jason"},
+{"Date": "May 22", "Time": "1420", "Tea":"Peach Green Tea", "Sugar":100,"Price":5.8, "Upsize":"True", "Toppings":"Bubble", "Member":"Alice"},
+{"Date": "May 22", "Time": "1502", "Tea":"Lychee Milk Tea", "Sugar":0,"Price":5.1, "Ice":"Less", "Upsize":"True"}]
