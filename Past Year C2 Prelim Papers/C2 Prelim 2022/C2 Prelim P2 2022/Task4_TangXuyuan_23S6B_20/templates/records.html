@@ -1,0 +1,25 @@
+<DOCTYPE HTML>
+<html>
+  <head>
+    <title>Student Health Records</title>
+  </head>
+  <body>
+    <h1>Student Health Records</h1>
+
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Weight</th>
+        <th>Height</th>
+      </tr>
+      {% for student in records %}
+        <tr>
+          <td>{{student["Name"]}}</td>
+          <td>{{student["Gender"]}}</td>
+          <td>{{student["Weight"]}}</td>
+          <td>{{student["Height"]}}</td>
+        </tr>
+      {% endfor %}
+  </body>
+</html>

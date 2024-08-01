@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Health Record Statistics</title>
+  </head>
+  <body>
+    <h1>Health Record Statistics</h1>
+    
+    <table>
+      <tr>
+        <th>Gender</th>
+        <th>Total</th>
+        <th>Average Weight</th>
+        <th>Average Height</th>
+      </tr>
+
+      {% for grp in statistics %}
+        <tr>
+          <td>{{ grp["Gender"] }}</td>
+          <td>{{ grp["Total"] }}</td>
+          <td>{{ grp["Weight"] }}</td>
+          <td>{{ grp["Height"] }}</td>
+        </tr>
+      {% endfor %}
+    </table>
+  </body>
+</html>

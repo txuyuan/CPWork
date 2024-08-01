@@ -1,0 +1,22 @@
+<DOCTYPE HTML>
+<html>
+  <head>
+    <title>Donuts</title>
+  </head>
+  <body>
+    <h1>Donuts bought on {{ date }}</h1>
+    <table>
+      <tr>
+        <th>Donut Name</td>
+        <th>Quantity</td>
+      </tr>
+
+      {% for donut in donuts %}
+        <tr>
+          <td>{{ donut[0] }}</td>
+          <td>{{ donut[1] }}</td>
+        </tr>
+      {% endfor %}
+    </table>
+  </body>
+</html>
