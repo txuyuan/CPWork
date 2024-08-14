@@ -1,0 +1,286 @@
+
+  A B C D
+1 . . . .
+2 . T . .
+3 . . . .
+4 . . . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  A1
+
+
+  A B C D
+1 X . . .
+2 . T . .
+3 . . . .
+4 . . . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  B1
+
+
+  A B C D
+1 X O . .
+2 . T . .
+3 . . . .
+4 . . . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  A2
+
+
+  A B C D
+1 X O . .
+2 X T . .
+3 . . . .
+4 . . . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  C1
+
+
+  A B C D
+1 X O O .
+2 X T . .
+3 . . . .
+4 . . . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  A3
+
+
+  A B C D
+1 X O O .
+2 X T . .
+3 X . . .
+4 . . . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  D1
+
+
+  A B C D
+1 X O O O
+2 X T . .
+3 X . . .
+4 . . . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  A4
+
+
+  A B C D
+1 X O O O
+2 X T . .
+3 X . . .
+4 X . . .
+
+X wins!
+
+====================================================================
+
+
+  A B C D
+1 . . . .
+2 . . . .
+3 . . . .
+4 . T . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  A1
+
+
+  A B C D
+1 X . . .
+2 . . . .
+3 . . . .
+4 . T . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  B1
+
+
+  A B C D
+1 X O . .
+2 . . . .
+3 . . . .
+4 . T . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  A2
+
+
+  A B C D
+1 X O . .
+2 X . . .
+3 . . . .
+4 . T . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  B2
+
+
+  A B C D
+1 X O . .
+2 X O . .
+3 . . . .
+4 . T . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  A3
+
+
+  A B C D
+1 X O . .
+2 X O . .
+3 X . . .
+4 . T . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  B3
+
+
+  A B C D
+1 X O . .
+2 X O . .
+3 X O . .
+4 . T . .
+
+O wins!
+
+=====================================================================
+
+
+  A B C D
+1 . . T .
+2 . . . .
+3 . . . .
+4 . . . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  A1
+
+
+  A B C D
+1 X . T .
+2 . . . .
+3 . . . .
+4 . . . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  B1
+
+
+  A B C D
+1 X O T .
+2 . . . .
+3 . . . .
+4 . . . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  D1
+
+
+  A B C D
+1 X O T X
+2 . . . .
+3 . . . .
+4 . . . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  A2
+
+
+  A B C D
+1 X O T X
+2 O . . .
+3 . . . .
+4 . . . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  B2
+
+
+  A B C D
+1 X O T X
+2 O X . .
+3 . . . .
+4 . . . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  C2
+
+
+  A B C D
+1 X O T X
+2 O X O .
+3 . . . .
+4 . . . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  D2
+
+
+  A B C D
+1 X O T X
+2 O X O X
+3 . . . .
+4 . . . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  A3
+
+
+  A B C D
+1 X O T X
+2 O X O X
+3 O . . .
+4 . . . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  B3
+
+
+  A B C D
+1 X O T X
+2 O X O X
+3 O X . .
+4 . . . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  C3
+
+
+  A B C D
+1 X O T X
+2 O X O X
+3 O X O .
+4 . . . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  D3
+
+
+  A B C D
+1 X O T X
+2 O X O X
+3 O X O X
+4 . . . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  B4
+
+
+  A B C D
+1 X O T X
+2 O X O X
+3 O X O X
+4 . O . .
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  A1
+
+Space already taken!
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  A4
+
+
+  A B C D
+1 X O T X
+2 O X O X
+3 O X O X
+4 X O . .
+
+Player O: Please enter desired coordinate to mark [A1, etc]:  D4
+
+
+  A B C D
+1 X O T X
+2 O X O X
+3 O X O X
+4 X O . O
+
+Player X: Please enter desired coordinate to mark [A1, etc]:  C4
+
+
+  A B C D
+1 X O T X
+2 O X O X
+3 O X O X
+4 X O X O
+
+Draw! Congratulations both!
